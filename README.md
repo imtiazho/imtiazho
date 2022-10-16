@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiazho&label=Profile%20views&color=0e75b6&style=flat" alt="imtiazho" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imtiazho" alt="imtiazho" /></a> </p>
-
 - 🌱 I’m currently learning **React JS and Firebase Authentication**
 
 - 👨‍💻 All of my projects are available at [https://radiant-gumption-c0e15a.netlify.app/](https://radiant-gumption-c0e15a.netlify.app/)
@@ -25,6 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiazho&show_icons=true&locale=en&layout=compact" alt="imtiazho" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imtiazho&show_icons=true&locale=en" alt="imtiazho" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imtiazho&" alt="imtiazho" /></p>
 
