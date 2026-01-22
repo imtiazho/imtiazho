@@ -1,2 +1,2 @@
-<h1 align="center">Hi 👋, Imtiaz Hossain</h1>
-<h3 align="center">Developer | Programmer</h3>
+<h1 align="center">Imtiaz Hossain</h1>
+<p align="center">Developer | Programmer</p>
